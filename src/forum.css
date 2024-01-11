@@ -1,0 +1,37 @@
+main {
+
+  background-color:#132b3e;
+  color:#bdd7ff;
+}
+p{
+  color:#bdd7ff;
+}
+
+
+
+header{
+
+  background-color:#132b3e;
+  padding:10px;
+  border-block:5px;
+  font-family: Ariel;
+  color:#bdd7ff;
+}
+
+img{
+  height:25px;
+  width:30px;
+}
+
+p{
+  color:#bdd7ff;
+}
+input{
+  background-color: #223f58;
+  border-color:#bdd7ff;
+  color:#bdd7ff;
+}
+
+
+
+

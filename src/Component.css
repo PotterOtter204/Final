@@ -1,0 +1,58 @@
+.Sprite{
+  height: 160px;
+  width:160px;
+  border:solid;
+  borderlor:#bdd7ff;
+  background-color:#081621;
+
+}
+
+.Name{
+  background-color:#081621;
+  color:#bdd7ff;
+}
+
+.rarity{
+  color:#bdd7ff;
+  font-size:18px;
+   font-family: Arial;
+}
+main{
+
+  word-wrap: break-word;
+}
+
+.nameText{
+  margin-left: 30px;
+  font-family: Arial;
+}
+
+.flavor{
+  background-color:#081621;
+  font-size:20px;
+  color:#bdd7ff;
+   font-family: Arial;
+}
+
+.ATK{
+ color:#d76060; 
+
+  font-size:22px;
+   font-family: Arial;
+}
+
+.HP{
+  color:#3f923f;
+  font-size:22px;
+   font-family: Arial;
+}
+
+.Edge{
+  border:solid;
+  border-radius:3px;
+  background-color:#132b3e;
+}
+.Comp{
+  margin-right: 45px;
+  margin-left: 5px;
+}
